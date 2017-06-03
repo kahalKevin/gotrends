@@ -15,7 +15,7 @@ package main
 import (
 	"fmt"
 	
-	"gotrends"
+	gotrends "github.com/kahalKevin/gotrends"
 )
 
 
